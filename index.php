@@ -69,7 +69,7 @@ if(isset($_POST['nom']))
 	<head>
 	<body>
 	<div class="container<?php echo $mobile_chain;?>">
-		<div class="row rounded center" style="margin-top:5px;background-color:#338dff;">
+		<div class="row rounded center" style="margin-top:5px;background-color:#EE2222;">
 			<div class="col">
 			</div>
 			<div class="col">
@@ -149,7 +149,7 @@ if(isset($_POST['nom']))
 		</form>
 		<h2>Exemple de discussion</h2>
 	</div>
-	<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;background-color:#c1dbfd;">
+	<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;background-color:#EE2222;">
 		<div class="col">
 			<h3>Sujet 1</h3>
 			<small>24/02/2019</small>
@@ -180,7 +180,7 @@ if(isset($_POST['nom']))
 	<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;">
 		<h2>Discussions en cours</h2>
 	</div>
-	<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;padding-top:10px;padding-bottom:10px;background-color:#c1dbfd;">
+	<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;padding-top:10px;padding-bottom:10px;background-color:#FF3333;">
 		<?php
 		// lecture des commentaires premier niveau
 		$query_sujet = "SELECT * FROM tblsujets ORDER BY suj_datetime DESC " ;

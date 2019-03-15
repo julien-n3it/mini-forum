@@ -56,7 +56,7 @@ if(isset($_POST['envoi']))
 	<head>
 	<body>
 	<div class="container<?php echo $mobile_chain;?>">
-		<div class="row rounded center" style="margin-top:5px;background-color:#338dff;">
+		<div class="row rounded center" style="margin-top:5px;background-color:#EE2222;">
 			<div class="col">
 			</div>
 			<div class="col">
@@ -65,7 +65,7 @@ if(isset($_POST['envoi']))
 			<div class="col">
 			</div>
 		</div>
-		<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;background-color:#c1dbfd;">
+		<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;background-color:#EE2222;">
 		<small><a href="index.php"><< Revenir à l'accueil</a></small>
 		<div class="row">
 			<div class="col">
