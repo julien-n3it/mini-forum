@@ -77,12 +77,12 @@ if(isset($_POST['envoi']))
 			</div>
 			<div class="col">
 				<div class="alert alert-primary center" role="alert">
-					<a id="onglet1" href="sujet.php?sujet_id=<?php echo $_GET['sujet_id']?>&onglet=1"><input type="radio" <?php echo $selected_onglet1;?> /> Onglet 1</a>
+					<a id="onglet1" href="sujet.php?sujet_id=<?php echo $_GET['sujet_id']?>&onglet=1"><input type="radio" <?php echo $selected_onglet1;?> /> Pour</a>
 				</div>
 			</div>
 			<div class="col">
 				<div class="alert alert-primary center" role="alert">
-					<a id="onglet2" href="sujet.php?sujet_id=<?php echo $_GET['sujet_id']?>&onglet=2"><input type="radio" <?php echo $selected_onglet2;?> /> Onglet 2</a>
+					<a id="onglet2" href="sujet.php?sujet_id=<?php echo $_GET['sujet_id']?>&onglet=2"><input type="radio" <?php echo $selected_onglet2;?> /> Contre</a>
 				</div>
 			</div>
 			<div class="col">
