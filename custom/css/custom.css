@@ -1,0 +1,21 @@
+.discussion {
+	margin-top:5px;background-color:#ffffff;
+}
+
+.indent1 {
+	padding-left:50px;
+}
+
+.indent2 {
+	padding-left:100px;
+}
+
+.indent3 {
+	padding-left:150px;
+}
+
+@media only screen and (max-device-width:980px) {
+ body {
+ font-size:200%;
+ }
+}
