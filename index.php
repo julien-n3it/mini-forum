@@ -69,15 +69,7 @@ if(isset($_POST['nom']))
 	<head>
 	<body>
 	<div class="container<?php echo $mobile_chain;?>">
-		<div class="row rounded center" style="margin-top:5px;background-color:#EE2222;">
-			<div class="col">
-			</div>
-			<div class="col">
-				<h1 style="color:#FFFFFF;">MINI-FORUM.COM</h1>
-			</div>
-			<div class="col">
-			</div>
-		</div>
+		<?php include "includes/header.php" ?>
 		<div class="row">
 			<div class="col">
 			</div>

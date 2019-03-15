@@ -56,15 +56,7 @@ if(isset($_POST['envoi']))
 	<head>
 	<body>
 	<div class="container<?php echo $mobile_chain;?>">
-		<div class="row rounded center" style="margin-top:5px;background-color:#EE2222;">
-			<div class="col">
-			</div>
-			<div class="col">
-				<h1 style="color:#FFFFFF;">MINI-FORUM.COM</h1>
-			</div>
-			<div class="col">
-			</div>
-		</div>
+		<?php include "includes/header.php" ?>
 		<div class="container<?php echo $mobile_chain;?> rounded" style="margin-top:5px;background-color:#EE2222;">
 		<small><a href="index.php"><< Revenir à l'accueil</a></small>
 		<div class="row">

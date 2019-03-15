@@ -1,4 +1,4 @@
-<h1>Projet de Forum V0.1.1</h1>
+<h1>Projet de Forum V0.1.2</h1>
 
 Description : ce projet permet à des utilisateurs Web de créer des sujets puis de discuter autour de ces derniers.
 
