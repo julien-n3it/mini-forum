@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $db = "discussion" ;
-// test pour voir si MAJ hors GIT
+// test pour voir si MAJ hors GIT 2ème essai
 try {
     $conn = new PDO("mysql:host=".$servername.";dbname=".$db, $username, $password);
     // set the PDO error mode to exception
