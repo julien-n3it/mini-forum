@@ -74,7 +74,7 @@ if(isset($_POST['nom']))
 			<div class="col">
 			</div>
 			<div class="col text-center">
-				<p>Un mini forum personnalisé pour tous ! Ici on met autre chose pour chercher le conflit</p>
+				<p>Un mini forum personnalisé pour tous ! On résoud le conflit comme ça</p>
 			</div>
 			<div class="col">
 			</div>
