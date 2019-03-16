@@ -74,7 +74,7 @@ if(isset($_POST['nom']))
 			<div class="col">
 			</div>
 			<div class="col text-center">
-				<p>Un mini forum pour tous !</p>
+				<p>Un mini forum personnalisé pour tous !</p>
 			</div>
 			<div class="col">
 			</div>
@@ -82,7 +82,7 @@ if(isset($_POST['nom']))
 		<form action="#" id="form" method="POST">
 		<div class="row">
 			<div class="col text-center">
-				<h2>Votre sujet</h2>
+				<h2>Votre sujet personnalisé</h2>
 			</div>
 			<div class="col">
 				<div class="row">
