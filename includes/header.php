@@ -2,7 +2,7 @@
 	<div class="col">
 	</div>
 	<div class="col">
-		<h1 style="color:#FFFFFF;">MINI-FORUM.COM</h1>
+		<h1 style="color:#FFFFFF;">MINI-FORUM.COM - ici on veut voir STASH</h1>
 	</div>
 	<div class="col">
 	</div>
